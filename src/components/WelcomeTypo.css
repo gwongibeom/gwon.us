@@ -1,0 +1,23 @@
+.welcomeTypo {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.quotes {
+  font-size: 2rem;
+  margin: 0;
+
+  -webkit-user-drag: none;
+  -khtml-user-drag: none;
+  -moz-user-drag: none;
+  -o-user-drag: none;
+  user-drag: none;
+}
+
+.typo {
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: bold;
+}
