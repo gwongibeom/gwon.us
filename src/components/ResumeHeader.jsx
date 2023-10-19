@@ -30,6 +30,7 @@ function ResumeHeader() {
       />
       <div className='nameAndContact'>
         <div className='name'>권기범</div>
+        <div className='webProgrammer'>웹 개발자</div>
         <div className='contact'>
           <div className='phoneNumber contacts'>
             <BsTelephoneFill id='icon' /> <a href='tel:+82 1043989956'>01043989956</a>
