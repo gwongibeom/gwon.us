@@ -1,4 +1,4 @@
-import './WelcomeTypo.css'
+import './WelcomeTypo.css';
 
 const WelcomeTypo = () => {
   return (
@@ -13,7 +13,7 @@ const WelcomeTypo = () => {
       </div>
       <p className='quotes'>❞</p>
     </div>
-  )
-}
+  );
+};
 
-export default WelcomeTypo
+export default WelcomeTypo;
